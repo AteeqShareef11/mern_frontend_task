@@ -1,6 +1,6 @@
-import VehicleList from './VehicleList';
 import DashboardLayout from '../layout';
 import { Box } from '@mui/material';
+import VehicleList from './vehicleList';
 
 
 function Vehicles() {
