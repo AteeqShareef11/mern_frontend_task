@@ -1,6 +1,7 @@
 import axios from "axios";
 
-const Url = "https://f52zjf4r-3333.inc1.devtunnels.ms/";
+const Url =
+  "https://6667e5b1fd88b7ac5b6ffa7e--charming-faloodeh-300d60.netlify.app/";
 
 const api = axios.create({
   baseURL: Url,
