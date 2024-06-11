@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const Url =
-  "https://6667e5b1fd88b7ac5b6ffa7e--charming-faloodeh-300d60.netlify.app/";
+  "http://13.53.236.127:3333/";
 
 const api = axios.create({
   baseURL: Url,
